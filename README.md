@@ -10,6 +10,6 @@ Ergänzungen und Verbesserungen sind gerne gesehen und erwünscht.
 
 ## Inhaltsverzeichnis:
 
-[Das Problem mit dem Datenschutz am Beispiel von Zoom](https://github.com/techware01/digitale-Lehre-und-Datenschutz)
+[Das Problem mit dem Datenschutz am Beispiel von Zoom](https://github.com/techware01/digitale-Lehre-und-Datenschutz/zoom.md)
 
 [Alternative Plattformen und Tools, die den Datenschutz ernstnehmen](https://github.com/techware01/digitale-Lehre-und-Datenschutz/alternativen.md)
