@@ -3,7 +3,7 @@ um mal eben schnell eine Konferenz abzuhalten,sich digital mit Freund\*innen zu 
 Dass man allerdings aus Datenschutzgründen eher einen großen Bogen um Zoom machen sollte und stattdessen eine der zahlreichen guten Alternativen verwenden sollte,
 die den Schutz unserer Daten ernst nehmen, ist mittlerweile offensichtlich und sollte man nicht müde werden, den Leuten zu erklären.
 Um die eigenen Aussagen zum Thema einfacher mit Quellen belegen
-und zusätzlichen Infomaterial anbieten zu können, möchte ich hier eine List mit Quellen führen.
+und zusätzlichen Infomaterial anbieten zu können, möchte ich hier eine Liste mit Quellen anlegen, die sich mit den Datenschutz- und Datensicherheit von Videokonferenzsystemen und im speziellen Zoom beschäftigen. Natürlich treffen viele der Probleme auch auf andere Konferenztools anderer großer Anbieter, wie Google Hangouts oder Microsoft Teams zu. Sind also in der Hinsicht keine Alternative. Dienste, die stadessen wirkliche Alternativen darstellen, werden in einer eigenen Datei aufgelistet.
 
 **Vorab aber noch in aller Kürze, eine (persönliche) Darstellung des Problems:**
 
