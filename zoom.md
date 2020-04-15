@@ -20,7 +20,8 @@ So ein Unternehmen kann ich absolut kein Vertrauen schenken und möchte es schon
 
 [Datenschutzerklärung von Zoom](https://zoom.us/de-de/privacy.html)
 [Die Kamera im Wohnzimmer: Datenschutz bei Videokonferenzsystemen](https://noyb.eu/de/unterbrochene-uebertragung) (noyb.de am 02.04.)
-[Videokonferenz-Software: Ist Zoom ein Sicherheitsalptraum?](https://www.heise.de/security/meldung/Videokonferenz-Software-Ist-Zoom-ein-Sicherheitsalptraum-4695000.html)
+
+[Videokonferenz-Software: Ist Zoom ein Sicherheitsalptraum?](https://www.heise.de/security/meldung/Videokonferenz-Software-Ist-Zoom-ein-Sicherheitsalptraum-4695000.html) (heise.de am 02.04)
 
 ### unzureichende Verschlüsselung bei Zoom und fehlerhafte Darstellung durch Zoom
 
