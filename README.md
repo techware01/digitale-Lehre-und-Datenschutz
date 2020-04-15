@@ -12,4 +12,4 @@ Ergänzungen und Verbesserungen sind gerne gesehen und erwünscht.
 
 [Das Problem mit dem Datenschutz am Beispiel von Zoom](https://github.com/techware01/digitale-Lehre-und-Datenschutz/blob/master/zoom.md)
 
-[Alternative Plattformen und Tools, die den Datenschutz ernstnehmen](https://github.com/techware01/digitale-Lehre-und-Datenschutz/blob/master/alternativen.md)
+[Alternative Plattformen und Tools, die den Datenschutz ernst nehmen](https://github.com/techware01/digitale-Lehre-und-Datenschutz/blob/master/alternativen.md)
