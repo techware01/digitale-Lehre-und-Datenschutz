@@ -1,5 +1,5 @@
 # digitale-Lehre-und-Datenschutz
-Eine Sammlung an Informationen und eine Sensibilisierung zum Thema Datenschutz beim Abhalten digitaler Konferenzen. Mit Schwerpunkt auf den Einsatz in der digitalen lehre und das kollaborative Arbeiten im Digitalen. 
+Eine Sammlung an Informationen und eine Sensibilisierung zum Thema Datenschutz beim Abhalten digitaler Konferenzen. Mit Schwerpunkt auf den Einsatz in der digitalen Lehre und das kollaborative Arbeiten im Digitalen. 
 Außerdem sollen Alternativen zu Anbietern, wie Zoom, Google und Microsoft aufgezeigt und 
 verschiedene beispielhafte Nutzungsszenarien dargstellt werden.
 Diese reichen von digitalen Vorlesungen, über Gruppenarbeiten und Teambesprechungen 
