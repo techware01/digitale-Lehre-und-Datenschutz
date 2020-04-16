@@ -23,7 +23,9 @@ So ein Unternehmen kann ich absolut kein Vertrauen schenken und möchte es schon
 
 [Videokonferenz-Software: Ist Zoom ein Sicherheitsalptraum?](https://www.heise.de/security/meldung/Videokonferenz-Software-Ist-Zoom-ein-Sicherheitsalptraum-4695000.html) (heise.de am 02.04.)
 
-### unzureichende Verschlüsselung bei Zoom und Falschangaben durch Zoom
+[Kritikbereich des Wikipediaartikels zu Zoom](https://de.m.wikipedia.org/wiki/Zoom_Video_Communications#Kritik)
+
+### Unzureichende Verschlüsselung bei Zoom und Falschangaben zu den verwendeten Techniken durch Zoom
 
 [Zoom räumt ein: Hauseigene Verschlüsselungstechnik ist unzureichend](https://www.zdnet.de/88378671/zoom-raeumt-ein-hauseigene-verschluesselungstechnik-ist-unzureichend/) (zdnet.de am 07.04.)
 
@@ -31,7 +33,7 @@ So ein Unternehmen kann ich absolut kein Vertrauen schenken und möchte es schon
 
 [Zoom übermittelt personenbezogene Daten an Drittanbieter](https://www.kuketz-blog.de/zoom-uebermittelt-personenbezogene-daten-an-drittanbieter/) (kuketz-blog.de am 26.03.)
 
-## Datensicherheit
+### Datensicherheit nicht gegeben
 [Zugangsdaten für hunderttausende Zoom-Accounts zum Kauf im Darknet entdeckt](https://www.heise.de/security/meldung/Zugangsdaten-fuer-hunderttausende-Zoom-Accounts-zum-Kauf-im-Darknet-entdeckt-4701838.html) (heise.de am 14.04.)
 
 [500,000 Zoom Accounts Sold On Dark Web](https://fossbytes.com/zoom-security-issues-500000-zoom-accounts-sold-dark-web/) (fossbytes.com am 15.04.)
