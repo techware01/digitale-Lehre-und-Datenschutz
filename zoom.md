@@ -21,12 +21,17 @@ So ein Unternehmen kann ich absolut kein Vertrauen schenken und möchte es schon
 [Datenschutzerklärung von Zoom](https://zoom.us/de-de/privacy.html)
 [Die Kamera im Wohnzimmer: Datenschutz bei Videokonferenzsystemen](https://noyb.eu/de/unterbrochene-uebertragung) (noyb.de am 02.04.)
 
-[Videokonferenz-Software: Ist Zoom ein Sicherheitsalptraum?](https://www.heise.de/security/meldung/Videokonferenz-Software-Ist-Zoom-ein-Sicherheitsalptraum-4695000.html) (heise.de am 02.04)
+[Videokonferenz-Software: Ist Zoom ein Sicherheitsalptraum?](https://www.heise.de/security/meldung/Videokonferenz-Software-Ist-Zoom-ein-Sicherheitsalptraum-4695000.html) (heise.de am 02.04.)
 
-### unzureichende Verschlüsselung bei Zoom und fehlerhafte Darstellung durch Zoom
+### unzureichende Verschlüsselung bei Zoom und Falschangaben durch Zoom
 
-[Zoom räumt ein: Hauseigene Verschlüsselungstechnik ist unzureichend](https://www.zdnet.de/88378671/zoom-raeumt-ein-hauseigene-verschluesselungstechnik-ist-unzureichend/) (zdnet.de am 07.04)
+[Zoom räumt ein: Hauseigene Verschlüsselungstechnik ist unzureichend](https://www.zdnet.de/88378671/zoom-raeumt-ein-hauseigene-verschluesselungstechnik-ist-unzureichend/) (zdnet.de am 07.04.)
 
 ### Tracking und Weitergabe der Daten durch Zoom
 
 [Zoom übermittelt personenbezogene Daten an Drittanbieter](https://www.kuketz-blog.de/zoom-uebermittelt-personenbezogene-daten-an-drittanbieter/) (kuketz-blog.de am 26.03.)
+
+## Datensicherheit
+[Zugangsdaten für hunderttausende Zoom-Accounts zum Kauf im Darknet entdeckt](https://www.heise.de/security/meldung/Zugangsdaten-fuer-hunderttausende-Zoom-Accounts-zum-Kauf-im-Darknet-entdeckt-4701838.html) (heise.de am 14.04.)
+
+[500,000 Zoom Accounts Sold On Dark Web](https://fossbytes.com/zoom-security-issues-500000-zoom-accounts-sold-dark-web/) (fossbytes.com am 15.04.)
