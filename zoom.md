@@ -1,15 +1,16 @@
 Zurzeit wird leider Zoom häufig als das Nummer Eins Tool verwendet,
 um mal eben schnell eine Konferenz abzuhalten,sich digital mit Freund\*innen zu treffen oder eine Vorlesung live zu streamen.
 Dass man allerdings aus Datenschutzgründen eher einen großen Bogen um Zoom machen sollte und stattdessen eine der zahlreichen guten Alternativen verwenden sollte,
-die den Schutz unserer Daten ernst nehmen, ist mittlerweile offensichtlich und sollte man nicht müde werden, den Leuten zu erklären.
+die den Schutz unserer Daten ernst nehmen, ist mittlerweile offensichtlich. Aus diesem Grund sollte man nicht müde werden, diese Situation Zoomnutzer\*innen zu erklären und entsprechende Alternativen anzubieten.
 Um die eigenen Aussagen zum Thema einfacher mit Quellen belegen
-und zusätzlichen Infomaterial anbieten zu können, möchte ich hier eine Liste mit Quellen anlegen, die sich mit den Datenschutz- und Datensicherheit von Videokonferenzsystemen und im speziellen Zoom beschäftigen. Natürlich treffen viele der Probleme auch auf andere Konferenztools anderer großer Anbieter, wie Google Hangouts oder Microsoft Teams zu. Sind also in der Hinsicht keine Alternative. Dienste, die stadessen wirkliche Alternativen darstellen, werden in einer eigenen Datei aufgelistet.
+und zusätzliches Infomaterial anbieten zu können, möchte ich hier eine Liste mit Quellen anlegen. Diese soll sich dabe mit Datenschutz- und Datensicherheit von Videokonferenzsystemen und im speziellen von Zoom beschäftigen. Natürlich treffen viele der Probleme auch auf die Konferenztools anderer großer Anbieter, wie Google Hangouts oder Microsoft Teams zu. Sind also in der Hinsicht keine Alternative. Dienste, die stadessen wirkliche Alternativen darstellen, werden hier aufgelistet: 
+[Alternative Plattformen und Tools, die den Datenschutz ernst nehmen](https://github.com/techware01/digitale-Lehre-und-Datenschutz/blob/master/alternativen.md).
 
 **Vorab aber noch in aller Kürze, eine (persönliche) Darstellung des Problems:**
 
 ### Warum ist Zoom mit großer Skepsis zu betrachten und sollte von einer Verwendung am Besten abgesehen werden?
 
-Zum einen hat Zoom sie sich mehrmals selbst wiedersprochen,
+Zum einen Zoom sie sich mehrmals selbst wiedersprochen,
 was ihre Verschlüsselung angeht und haben wohl anders als sie es versprechen,
 eben keine Ende zu Ende Verschlüsselung im eigentlichen Sinne, sondern nur auf Transportebene. Der Sicherheitskontext wird auf ihren Servern (Amazon AWS) aufgebrochen. Somit können sie jede Konferenz nach belieben aufnehmen und unter ihrem Namen veröffentlichen. Gleichzeitig können sie auch alle Datenflüsse manipulieren.
 Zum anderen haben sie eine große Zahl an Trackern eingebaut und teilen fröhlich Daten mit allen möglichen anderen großen Firmen in den USA (Amazon, Ada Support, Zendesk & co) ohne, dass der Nutzer darüber aufgeklärt oder sein Einverständnis eingeholt wird.
