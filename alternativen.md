@@ -1,5 +1,12 @@
 Alle beschriebenen Alternativen sind OpenSource und schützen ihre Daten. Nutzen Sie nur Instanzen, bei denen Sie den Bereitsteller:innen vertrauen, dass diese den Datenschutz ebenfalls ernst nehmen oder bieten Sie am Besten selbst eine Instanz an (für fortgeschrittene Benutzer:innen auf einem eigenen Server). Zu jeder Software gibt es hier eine kleine Liste öffentlicher Instanzen oder Links, wo man noch viel mehr Instanzen finden kann. Eine Gute und laufend aktualisierte Übersicht über öffentliche Instanzen aller Tools, die wir vorstellen, bietet außerdem der CCC in einem Pad: https://pads.ccc.de/jitsiliste.
 
+<!-- # Inhaltsverzeichnis
+- [JITSI-Meet](#jitsi)
+- [BigBlueButton](#bbb)
+- [Mumble](#mumble)
+- [Etherpad-Lite](#etherpad)
+- [Cryptpad](#cryptpad) -->
+
 # Konferenzsysteme
 ## JITSI-Meet
 ### Beschreibung
@@ -107,9 +114,9 @@ Nachteil
 - Apps im Google-PlayStore (Plumble), F-Droid (Mumla) und im iOS AppStore (auch auf dem iPad verfügbar)
 - je nach Instanz im Browser nutzbar
 
-
 ### Auswahl öffentlicher Instanzen
 - https://www.systemli.org/service/mumble.html (Instanz von systemli.org)
+- Informationen zu Mumbleservern vom Freifunk: https://wiki.freifunk.net/Mumble
 
 
 # Kollarobatives Schreiben
@@ -133,9 +140,17 @@ Eignet sich zum Beispiel hervorragend, um ein gemeinsames Protokoll einer Videok
 - automatische synchronisation 
 - einfach über einen Link teilbar
 
-### Nachteil
+### Nachteile
 - Pads werden unverschlüsselt auf dem jeweiligen Server abgelegt
 - manche Instanzen haben stabilitäts Probleme, gerade wenn viele Plugins eingesetzt werden
+
+### Clients
+- alle modernen Browser, auch mobil
+
+### Auswahl öffentlicher Instanzen
+- https://pad.fridaysforfuture.de/
+- https://pad.systemli.org/
+- 
 
 ## Cryptpad
 Im Grunde die verschlüsselte Variante des Etherpads mit erhöhtem Funktionsumfang. Weitere  Dokumenttypen sind hier direkt mit integriert. Je nach Instanz z.B. Präsentation, Tabelle, Umfrage, Whiteboard, ...
@@ -149,10 +164,23 @@ Im Grunde die verschlüsselte Variante des Etherpads mit erhöhtem Funktionsumfa
 - längere Ladezeiten
 - unerübersichtlicher als Etherpad
 
+### Clients
+- alle modernen Browser, auch mobil
+
 ### Auswahl öffentlicher Instanzen
 - https://cryptpad.piratenpartei.de 
 - https://cryptpad.fr/
 - https://pads.in-ulm.de (nur Textpad)
+
+# Seiten, die viele öffentliche Services kostenlos bereitstellen
+- [Systemli](https://www.systemli.org/service/index.html)
+- [Synopta](https://snopyta.org/)
+- [Dis\`root´](https://disroot.org/de/#services)
+- [..::tchncs::..](https://tchncs.de/)
+- [Chatons](https://entraide.chatons.org/de/)
+
+
+**Wenn euch die hier aufgelisteten Dienste gefallen und ihr Sie ebenso lieben lernt wie wir, lasst doch gerne mal eine Spende bei den jeweiligen Anbietern da. Viele Dienste sind auf Spenden angewiesen, um weiter bestehen zu können und tragen maßgäblich zu einem freieren und offeneren Internet, ohne Überwachung und Datenverkauf bei!**
 
 # Weitere Übersichten und Artikel zu den oben beschrieben Diensten
 - Solidarische Infrastruktur für solidarische Aktionen (Systemli.org)
