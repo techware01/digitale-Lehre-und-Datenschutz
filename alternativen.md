@@ -152,9 +152,12 @@ Eignet sich zum Beispiel hervorragend, um ein gemeinsames Protokoll einer Videok
 - alle modernen Browser, auch mobil
 
 ### Auswahl öffentlicher Instanzen
+- https://yopad.eu/
 - https://pad.fridaysforfuture.de/
 - https://pad.systemli.org/
-- 
+- https://pad.riseup.net/
+- https://pad.disroot.org/
+- Und viele, viele mehr ...
 
 ## Cryptpad
 Im Grunde die verschlüsselte Variante des Etherpads mit erhöhtem Funktionsumfang. Weitere  Dokumenttypen sind hier direkt mit integriert. Je nach Instanz z.B. Präsentation, Tabelle, Umfrage, Whiteboard, ...
@@ -176,7 +179,7 @@ Im Grunde die verschlüsselte Variante des Etherpads mit erhöhtem Funktionsumfa
 - https://cryptpad.fr/
 - https://pads.in-ulm.de (nur Textpad)
 
-# Seiten, die viele veschiedene öffentliche Services kostenlos bereitstellen
+# Seiten, die viele veschiedene öffentliche Dienste kostenlos bereitstellen
 - [Systemli](https://www.systemli.org/service/index.html)
 - [Synopta](https://snopyta.org/)
 - [Dis\`root´](https://disroot.org/de/#services)
