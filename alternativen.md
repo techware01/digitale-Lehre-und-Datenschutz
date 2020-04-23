@@ -190,6 +190,6 @@ Im Grunde die verschlüsselte Variante des Etherpads mit erhöhtem Funktionsumfa
 **Wenn euch die hier aufgelisteten Dienste gefallen und ihr Sie ebenso lieben lernt wie wir, lasst doch gerne mal eine Spende bei den jeweiligen Anbietern da. Viele Dienste sind auf Spenden angewiesen, um weiter bestehen zu können und tragen maßgäblich zu einem freieren und offeneren Internet, ohne Überwachung und Datenverkauf bei!**
 
 # Weitere Übersichten und Artikel zu den oben beschrieben Diensten
-- Solidarische Infrastruktur für solidarische Aktionen (Systemli.org)
-- Freie Lern- & Lehrmaterialien (FSFW Dresden)
-- Corona: Technik-Tipps fürs Homeoffice (Digitalcourage)
+- [Corona: Technik-Tipps fürs Homeoffice](https://digitalcourage.de/blog/2020/corona-homeoffice-tipps#2) (Digitalcourage e.V.)
+- [Freie Lern- & Lehrmaterialien](https://wiki.fsfw-dresden.de/doku.php/open_educational_ressources#digitalisierungbeschleuniger_corona_-_auch_in_der_lehre) (FSFW Dresden)
+- [Solidarische Infrastruktur für solidarische Aktionen](https://www.systemli.org/de/2020/03/15/solidarische-infrastruktur.html) (Systemli.org)
