@@ -1,4 +1,6 @@
-Alle beschriebenen Alternativen sind OpenSource und schützen ihre Daten. Nutzen Sie nur Instanzen, bei denen Sie den Bereitsteller:innen vertrauen, dass diese den Datenschutz ebenfalls ernst nehmen oder bieten Sie am Besten selbst eine Instanz an (für fortgeschrittene Benutzer:innen auf einem eigenen Server). Zu jeder Software gibt es hier eine kleine Liste öffentlicher Instanzen oder Links, wo man noch viel mehr Instanzen finden kann. Eine Gute und laufend aktualisierte Übersicht über öffentliche Instanzen aller Tools, die wir vorstellen, bietet außerdem der CCC in einem Pad: https://pads.ccc.de/jitsiliste.
+# Digitale Zusammenarbeit 
+## Mit freier Software und Datenschutz
+Alle beschriebenen Alternativen sind OpenSource und schützen Deine Daten. Verwende nur Instanzen, bei denen Du den Bereitsteller:innen vertraust, dass diese den Datenschutz ebenfalls ernst nehmen oder biete am Besten selbst eine Instanz an (für fortgeschrittene Benutzer:innen auf einem eigenen Server). Zu jeder vorgestellten Software bieten wir eine kleine Liste öffentlicher Instanzen oder Webadressen, unter denen man noch viel mehr Instanzen finden kann. 
 
 <!-- # Inhaltsverzeichnis
 - [JITSI-Meet](#jitsi)
@@ -119,9 +121,11 @@ Nachteil
 - Informationen zu Mumbleservern vom Freifunk: https://wiki.freifunk.net/Mumble
 
 
+>Eine ausführliche und laufend aktualisierte Übersicht über öffentliche Instanzen der hier vorgestellten Konferenzsoftware, bietet außerdem der CCC in einem eigenen Pad an: https://pads.ccc.de/jitsiliste.
+
 # Kollarobatives Schreiben
 ## Etherpad Lite
-### Beschreibeung
+### Beschreibung
 Erlaubt es einfache Online Dokumte direkt im Browser in Echtzeit gemeinsam zu bearbeiten.
 Ein super Tool, durch das ewiges hin und her Schicken von Dokumente, mit allen damit verbudenden Nachteilen oder auch die Nutzung von GoogleDocs nicht mehr nötig sind.
 Eignet sich zum Beispiel hervorragend, um ein gemeinsames Protokoll einer Videokonferenz anzulegen.
@@ -172,7 +176,7 @@ Im Grunde die verschlüsselte Variante des Etherpads mit erhöhtem Funktionsumfa
 - https://cryptpad.fr/
 - https://pads.in-ulm.de (nur Textpad)
 
-# Seiten, die viele öffentliche Services kostenlos bereitstellen
+# Seiten, die viele veschiedene öffentliche Services kostenlos bereitstellen
 - [Systemli](https://www.systemli.org/service/index.html)
 - [Synopta](https://snopyta.org/)
 - [Dis\`root´](https://disroot.org/de/#services)
