@@ -1,6 +1,6 @@
 # Digitale Zusammenarbeit 
 ## Mit freier Software und Datenschutz
-Alle beschriebenen Alternativen sind OpenSource und schützen Deine Daten. Verwende nur Instanzen, bei denen Du den Bereitsteller:innen vertraust, dass diese den Datenschutz ebenfalls ernst nehmen oder biete am Besten selbst eine Instanz an (für fortgeschrittene Benutzer:innen auf einem eigenen Server). Zu jeder vorgestellten Software bieten wir eine kleine Liste öffentlicher Instanzen oder Webadressen, unter denen Du noch weitere Instanzen findest. 
+Alle beschriebenen Alternativen sind [OpenSource](https://fsfw-dresden.de/2020/04/DiLi-News-Interview.html) und schützen Deine Daten. Verwende nur Instanzen, bei denen Du den Bereitsteller:innen vertraust, dass diese den Datenschutz ebenfalls ernst nehmen oder biete am Besten selbst eine Instanz an (für fortgeschrittene Benutzer:innen auf einem eigenen Server). Zu jeder vorgestellten Software bieten wir eine kleine Liste öffentlicher Instanzen oder Webadressen, unter denen Du noch weitere Instanzen findest. 
 
 <!-- # Inhaltsverzeichnis
 - [JITSI-Meet](#jitsi)
