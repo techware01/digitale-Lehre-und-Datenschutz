@@ -24,6 +24,8 @@ So ein Unternehmen kann ich absolut kein Vertrauen schenken und möchte es schon
 
 [Videokonferenz-Software: Ist Zoom ein Sicherheitsalptraum?](https://www.heise.de/security/meldung/Videokonferenz-Software-Ist-Zoom-ein-Sicherheitsalptraum-4695000.html) (heise.de am 02.04.)
 
+[Was spricht gegen Zoom.us](https://cyber4edu.org/c4e/wiki/zoom) (cyber4edu am 17.04.) => Interessante kurze Analyse der Datenschutzbestimmungen von Zoom mit weiteren Quellen
+
 [Kritikbereich des Wikipediaartikels zu Zoom](https://de.m.wikipedia.org/wiki/Zoom_Video_Communications#Kritik)
 
 ### Unzureichende Verschlüsselung bei Zoom und Falschangaben zu den verwendeten Techniken durch Zoom
