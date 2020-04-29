@@ -128,6 +128,7 @@ Nachteil
 Erlaubt es einfache Online Dokumte direkt im Browser in Echtzeit gemeinsam zu bearbeiten.
 Ein super Tool, durch das ewiges hin und her Schicken von Dokumente, mit allen damit verbudenden Nachteilen oder auch die Nutzung von GoogleDocs nicht mehr nötig sind.
 Eignet sich zum Beispiel hervorragend, um ein gemeinsames Protokoll einer Videokonferenz anzulegen.
+Ausführlichere Vorstellung und Anleitung gibt es auf [Tuuwi.de](https://tuuwi.de/2020/04/04/einfach-gemeinsam-an-texten-arbeiten-pads-machen-es-moeglich/).
 
 ### Funktionsumfang
 - grundlegende Formatierungstools, wie fett, kursiv, unterstrichen, Liste, ...
