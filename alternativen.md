@@ -35,12 +35,12 @@ Audio- und Videokonferenzsystem für kleine Gruppen das einfach im Browser läuf
 - derzeit keine Ende-Zu-Ende-, sondern nur eine Transportverschlüsselung => Instanz wählen, bei der man den Admins vertraut oder selber hosten => ein Update wird ebenfalls gerade entwickelt
 - In den mobilen Apps sind noch CrashTracker von Google eingebaut => FDroid-Version hat diese nicht => Issue wurde erstellt
 
-Clients
+### Clients
 - Browser 
 - Mobile Apps
 - Desktop-Anwendung
 
-Auswahl an öffentlichen Instanzen
+### Auswahl an öffentlichen Instanzen
 - https://www.kuketz-meet.de/ (Instanz von Kuketz - Blog mit kritischem Blick auf IT-Sicherheit und Datenschutz )
 - https://meet.systemli.org/ (Instanz von systemli.org - linkes Technikkollektiv)
 - https://meet.scheible.it/ ([Instanz von Tobias Scheible](https://scheible.it/meine-jitsi-meet-instanz/))
