@@ -182,7 +182,7 @@ Im Grunde die verschlüsselte Variante des Etherpads mit erhöhtem Funktionsumfa
 
 # Seiten, die viele veschiedene öffentliche Dienste kostenlos bereitstellen
 - [Systemli](https://www.systemli.org/service/index.html)
-- [Synopta](https://snopyta.org/)
+- [Snopyta](https://snopyta.org/)
 - [Dis\`root´](https://disroot.org/de/#services)
 - [..::tchncs::..](https://tchncs.de/)
 - [Chatons](https://entraide.chatons.org/de/)
