@@ -41,9 +41,9 @@ Clients
 - Desktop-Anwendung
 
 Auswahl an öffentlichen Instanzen
-- https://jitsi.meet.org (Instanz von jitsi.org => durch hohen Bekanntheitsgrad häufig überlastet)
 - https://www.kuketz-meet.de/ (Instanz von Kuketz - Blog mit kritischem Blick auf IT-Sicherheit und Datenschutz )
 - https://meet.systemli.org/ (Instanz von systemli.org - linkes Technikkollektiv)
+- https://meet.scheible.it/ ([Instanz von Tobias Scheible](https://scheible.it/meine-jitsi-meet-instanz/))
 - https://fairmeeting.net/ (Instanz von https://www.fairkom.eu/)
 - Große Liste von öffentlichen Instanzen: https://fediverse.blog/~/DonsBlog/videochat-server
 - Tool zur automatischen Auswahl einer aktuell sehr performanten Instanz: https://jitsi.random-redirect.de
