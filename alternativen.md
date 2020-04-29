@@ -83,10 +83,8 @@ Sehr stabile und umfangreiche, aber relativ einfach Bedienbare Konferenzsoftware
 
 ### Auswahl an öffentlichen Instanzen
 - https://bbb.cyber4edu.org/b (Instanz der Initiative [Cyber4Edu](https://cyber4edu.org/c4e/wiki/start))
-- https://bbb.bluit.de 
-- https://bbb.daten.reisen/b
-
-
+- https://bbb.bluit.de (privat gehostete Instanz von (Timo)[https://chaos.social/@marove/103998569645291179])
+- https://meeten.statt.drosseln (privat gehostete Instanz von (@psy)[https://social.troll.academy/@psy/103936046840525919] - mit sehr ausführlicher Beschreibung der Instanz)
 
 
 ## Mumble
