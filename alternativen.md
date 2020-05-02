@@ -83,6 +83,7 @@ Sehr stabile und umfangreiche, aber relativ einfach Bedienbare Konferenzsoftware
 
 ### Auswahl an öffentlichen Instanzen
 - https://bbb.cyber4edu.org/b (Instanz der Initiative [Cyber4Edu](https://cyber4edu.org/c4e/wiki/start))
+- https://senfcall.de/ (Instanz von Studierenden aus Darmstadt und Karlsruhe)
 - https://bbb.bluit.de (privat gehostete Instanz von [Timo](https://chaos.social/@marove/103998569645291179))
 - https://meeten.statt.drosseln (privat gehostete Instanz von [@psy](https://social.troll.academy/@psy/103936046840525919) - mit sehr ausführlicher Beschreibung der Instanz)
 
@@ -193,3 +194,4 @@ Im Grunde die verschlüsselte Variante des Etherpads mit erhöhtem Funktionsumfa
 - [Corona: Technik-Tipps fürs Homeoffice](https://digitalcourage.de/blog/2020/corona-homeoffice-tipps#2) (Digitalcourage e.V.)
 - [Freie Lern- & Lehrmaterialien](https://wiki.fsfw-dresden.de/doku.php/open_educational_ressources#digitalisierungbeschleuniger_corona_-_auch_in_der_lehre) (FSFW Dresden)
 - [Solidarische Infrastruktur für solidarische Aktionen](https://www.systemli.org/de/2020/03/15/solidarische-infrastruktur.html) (Systemli.org)
+- [Tipps für Video-Chats und Telefonkonferenzen](https://annalist.noblogs.org/post/2020/03/20/tipps-fuer-video-chats-und-telefonkonferenzen/) (annalist.noblogs.org)
