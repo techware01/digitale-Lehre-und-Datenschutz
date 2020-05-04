@@ -185,6 +185,7 @@ Im Grunde die verschlüsselte Variante des Etherpads mit erhöhtem Funktionsumfa
 - [Snopyta](https://snopyta.org/)
 - [Dis\`root´](https://disroot.org/de/#services)
 - [..::tchncs::..](https://tchncs.de/)
+- [GGC-Project](https://www.ggc-project.de)
 - [Chatons](https://entraide.chatons.org/de/)
 
 
